@@ -1,5 +1,8 @@
-body{
-    background-color: darkgray;
-    color:black;
+.pageheader{
+    text-align: center;
+    color: white;
     font-size: 25px;
+}
+body{
+    background-color: black;
 }
