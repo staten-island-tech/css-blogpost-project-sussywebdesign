@@ -1,5 +1,12 @@
+
 body{
-    background-color: darkgray;
-    color:black;
+color: white;
+    background-color: black;
+}
+.pageheader{
+    text-align: center;
     font-size: 25px;
+    color: white;
+    margin: 50px 40px 40px 30px;
+    background-color: black;
 }
