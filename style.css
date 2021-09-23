@@ -10,3 +10,11 @@ color: white;
     margin: 50px 40px 40px 30px;
     background-color: black;
 }
+img{
+    width: 300px;
+}
+content{
+    margin-left: 350px;
+    position: absolute;
+    bottom: ; 
+}
