@@ -2,6 +2,8 @@
     text-align: center;
     color: white;
     font-size: 25px;
+    position: relative;
+    top: 323px;
 }
 body{
     background-color: black;
