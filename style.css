@@ -8,3 +8,12 @@
 body{
     background-color: black;
 }
+div{
+    background-color: grey;
+}
+.body{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
