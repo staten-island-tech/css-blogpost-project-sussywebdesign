@@ -11,34 +11,33 @@ color: white;
     background-color: black;
 }
 .greatwhite{
-    width: 500px;
+    width: 700px;
 }
 .content{
-    position:absolute;
-    top: 200px;
-    left: 500px;
+    text-align: center;
+    position: relative;
+    left: 40px;
     font-size: 30px;
+    word-wrap: break-word;
+    width: 600;
 }
 .bodyparagraph{
     background-color: grey;
     border: 3px solid white;
-    width: 50vw;
-.pageheader{
-    text-align: center;
-    color: white;
-    font-size: 25px;
-    position: relative;
-    top: 323px;
+    position: absolute;
+    left: 600px;
 }
-body{
-    background-color: black;
-}
-div{
+.bodyparagraph2{
     background-color: grey;
+    border: 3px solid white;
+    position: absolute;
+    left: 600px;
+    top: 800;
 }
-.body{
-    color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.content2{
+    text-align: center;
+    position: relative;
+    left: 40px;
     font-size: 30px;
-}
+    word-wrap: break-word;
+    width: 600;
