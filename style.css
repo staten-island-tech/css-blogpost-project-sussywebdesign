@@ -10,7 +10,7 @@ color: white;
     margin: 50px 40px 40px 30px;
     background-color: black;
 }
-.greatwhite{
+.img{
     width: 700px;
 }
 .content{
@@ -24,20 +24,6 @@ color: white;
 .bodyparagraph{
     background-color: grey;
     border: 3px solid white;
-    position: absolute;
-    left: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
-.bodyparagraph2{
-    background-color: grey;
-    border: 3px solid white;
-    position: absolute;
-    left: 600px;
-    top: 800;
-}
-.content2{
-    text-align: center;
-    position: relative;
-    left: 40px;
-    font-size: 30px;
-    word-wrap: break-word;
-    width: 600;
